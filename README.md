@@ -1,0 +1,1 @@
+Developed an Online Utility Bill Payment System using Spring Boot, Hibernate, PostgreSQL, JSP, and Maven. Implemented role-based access where admins generate/manage bills and monitor payments, while users securely pay bills and track payment history.
